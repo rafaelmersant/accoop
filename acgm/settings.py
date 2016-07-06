@@ -51,7 +51,6 @@ INSTALLED_APPS = (
     'administracion',
     'ahorro',
     'conciliacion',
-    'contabilidad',
     'cuenta',
     'cxp',
     'facturacion',
